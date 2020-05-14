@@ -38,6 +38,10 @@
           <option name="url" value="https://gitee.com/lvjianliang/dubbox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/xiaohuai09136016/Alibaba-Cloud.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="e:\git" />
